@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/beauty-portfolio/static/css/main.7a2e1682.chunk.css",
+    "main.js": "/beauty-portfolio/static/js/main.86a09889.chunk.js",
+    "main.js.map": "/beauty-portfolio/static/js/main.86a09889.chunk.js.map",
+    "runtime-main.js": "/beauty-portfolio/static/js/runtime-main.26c89b85.js",
+    "runtime-main.js.map": "/beauty-portfolio/static/js/runtime-main.26c89b85.js.map",
+    "static/js/2.6792d153.chunk.js": "/beauty-portfolio/static/js/2.6792d153.chunk.js",
+    "static/js/2.6792d153.chunk.js.map": "/beauty-portfolio/static/js/2.6792d153.chunk.js.map",
+    "index.html": "/beauty-portfolio/index.html",
+    "static/css/main.7a2e1682.chunk.css.map": "/beauty-portfolio/static/css/main.7a2e1682.chunk.css.map",
+    "static/js/2.6792d153.chunk.js.LICENSE.txt": "/beauty-portfolio/static/js/2.6792d153.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26c89b85.js",
+    "static/js/2.6792d153.chunk.js",
+    "static/css/main.7a2e1682.chunk.css",
+    "static/js/main.86a09889.chunk.js"
+  ]
+}
